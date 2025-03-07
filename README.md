@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drc-bvaughn
-- 👀 I’m interested in inbound paper document processing to design new systems
-- 🌱 I’m currently learning about AWS
-- 💞️ I’m looking to collaborate on AWS-related topics
+- 👀 I design and maintain inbound paper document processing systems
+- 🌱 I have a certification for AWS however not yet working on an Cloud projects
+- 💞️ I am an expert on the IBM Datacap products: 15+ years specifically on this product family
 - 📫 How to reach me is Vaughn, Brian on Teams or bvaughn@datarecognitioncorp.com
 
 <!---
